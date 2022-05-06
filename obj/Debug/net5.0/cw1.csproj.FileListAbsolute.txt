@@ -14,3 +14,5 @@ C:\Users\s19911\Desktop\cw1\obj\Debug\net5.0\cw1.dll
 C:\Users\s19911\Desktop\cw1\obj\Debug\net5.0\ref\cw1.dll
 C:\Users\s19911\Desktop\cw1\obj\Debug\net5.0\cw1.pdb
 C:\Users\s19911\Desktop\cw1\obj\Debug\net5.0\cw1.genruntimeconfig.cache
+C:\Users\CzestiOPpc\Source\Repos\cw1_zgita\obj\Debug\net5.0\cw1.dll
+C:\Users\CzestiOPpc\Source\Repos\cw1_zgita\obj\Debug\net5.0\cw1.pdb
